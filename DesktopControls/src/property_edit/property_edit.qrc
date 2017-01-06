@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Desktop">
+        <file>PropertyEditCombobox.qml</file>
+        <file>PropertyEditLabel.qml</file>
+        <file>PropertyEditPathBox.qml</file>
+        <file>PropertyEditTextField.qml</file>
+        <file>PropertyEditor.qml</file>
+        <file>PropertyEditDoubleSpinBox.qml</file>
+        <file>PropertyEditIntSpinBox.qml</file>
+        <file>TemplateViewer.qml</file>
+    </qresource>
+</RCC>

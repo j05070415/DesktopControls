@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Desktop">
+        <file>CircleMask.qml</file>
+        <file>DesktopThinDivider.qml</file>
+        <file>DesktopTableViewStyle.qml</file>
+        <file>DesktopTreeViewStyle.qml</file>
+    </qresource>
+</RCC>

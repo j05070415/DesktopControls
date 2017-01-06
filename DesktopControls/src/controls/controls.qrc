@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Desktop">
+        <file>DesktopApplicationWindow.qml</file>
+        <file>DesktopToolbarGroup.qml</file>
+        <file>DesktopToolbarIconButton.qml</file>
+        <file>DesktopButton.qml</file>
+        <file>Dialog.qml</file>
+        <file>MessageDialog.qml</file>
+        <file>CircleImage.qml</file>
+        <file>Snackbar.qml</file>
+        <file>Label.qml</file>
+        <file>Button.qml</file>
+        <file>ExpandingSpacer.qml</file>
+        <file>Section.qml</file>
+        <file>SectionLayout.qml</file>
+        <file>IndicationButton.qml</file>
+    </qresource>
+</RCC>

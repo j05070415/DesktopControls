@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Desktop">
+        <file>AwesomeIcon.qml</file>
+        <file>FontAwesome.otf</file>
+        <file>Object.qml</file>
+        <file>Palette.qml</file>
+        <file>UnitsHelper.qml</file>
+        <file>awesome.js</file>
+        <file>Icon.qml</file>
+        <file>Theme.qml</file>
+        <file>ThemePalette.qml</file>
+        <file>utils.js</file>
+        <file>MaterialAnimation.qml</file>
+    </qresource>
+</RCC>

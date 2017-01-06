@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>arrow_drop_down.svg</file>
+        <file>close.svg</file>
+        <file>remove.svg</file>
+    </qresource>
+</RCC>

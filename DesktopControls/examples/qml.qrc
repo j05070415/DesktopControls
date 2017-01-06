@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PalettePage.qml</file>
+        <file>PropeditDemo.qml</file>
+        <file>DialogDemo.qml</file>
+        <file>TemplateDemo.qml</file>
+        <file>DefaultIcons.qml</file>
+    </qresource>
+</RCC>

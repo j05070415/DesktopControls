@@ -1,5 +1,5 @@
 #DesktopControls
-Compared to Qt raw Material,DesktopControls has below traits£º
+Compared to Qt raw Material,DesktopControls has below traits:
 
 1. More Material colors
 2. Desktop controls

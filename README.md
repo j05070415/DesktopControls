@@ -1,4 +1,4 @@
-#DesktopControls
+# DesktopControls
 Compared to Qt raw Material,DesktopControls has below traits:
 
 1. More Material colors
@@ -8,13 +8,11 @@ Compared to Qt raw Material,DesktopControls has below traits:
 5. Offer a property edit mechanism via diffrent templates
 6. Some other convenience components, Table Style,Tree Style,Normal Tree Model.
 
-#Qt Environment
+# Qt Environment
 * Qt5.7.0 or later
 
-#How To Use
+# How To Use
 1. Open desktopcontrols.pro
 2. Add "install" to make system
 3. Remove "install" and build all
 4. Run examle
-
-#Good Luck
